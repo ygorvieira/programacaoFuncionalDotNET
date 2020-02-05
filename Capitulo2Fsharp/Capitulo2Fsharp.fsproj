@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Calculadora.fs" />
+    <Compile Include="PeriodoDeTempo.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
