@@ -794,9 +794,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ygor Vieira\\Documents\\Casa do Codigo\\FuncionaldotNet\\FuncionalDotNET\\Capitulo2Fsharp\\Capitulo2Fsharp.fsproj",
-      "projectName": "Capitulo2Fsharp",
-      "projectPath": "C:\\Users\\Ygor Vieira\\Documents\\Casa do Codigo\\FuncionaldotNet\\FuncionalDotNET\\Capitulo2Fsharp\\Capitulo2Fsharp.fsproj",
+      "projectUniqueName": "C:\\Users\\Ygor Vieira\\Documents\\Casa do Codigo\\FuncionaldotNet\\FuncionalDotNET\\Capitulo2Fsharp\\Capitulo02Fsharp.fsproj",
+      "projectName": "Capitulo02Fsharp",
+      "projectPath": "C:\\Users\\Ygor Vieira\\Documents\\Casa do Codigo\\FuncionaldotNet\\FuncionalDotNET\\Capitulo2Fsharp\\Capitulo02Fsharp.fsproj",
       "packagesPath": "C:\\Users\\Ygor Vieira\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ygor Vieira\\Documents\\Casa do Codigo\\FuncionaldotNet\\FuncionalDotNET\\Capitulo2Fsharp\\obj\\",
       "projectStyle": "PackageReference",
